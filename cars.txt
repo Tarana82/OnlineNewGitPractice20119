@@ -5,3 +5,4 @@ audi
 tesla
 mersedes 500
 kia optima
+lexus cx470
